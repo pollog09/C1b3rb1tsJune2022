@@ -2,7 +2,8 @@
 # C1b3rB1ts -- Scanning Networks with NMAP and Identifity vulnerability scans
 ## Adversary operations steps
 
-![[Pasted image 20220623120051.png]]
+![Pasted image 20220623120051.png](https://github.com/pollog09/C1b3rb1tsJune2022/blob/main/Pasted%20image%2020220623120051.png)
+
 The first phase in a red team operation is focused on collecting as much information as possible about the target. Reconnaissance, aka Information Gathering, is one of the most critical steps. This is done through the use of public tools, such as Maltego, LinkedIn, Google, Twitter, Facebook, Google Earth, etc. As a result, it is usually possible to learn a great deal about the target’s people, technology, surroundings, and environment. This step also involves building or acquiring specific tools for the red team test.
 
 ## Accesing the VPS
@@ -22,7 +23,7 @@ In order to check Nmap version, command below does the trick.
 
   
 ## Reading the Results
-![[Port scanning 4.jpeg]]
+![Port scanning 4.jpeg](https://github.com/pollog09/C1b3rb1tsJune2022/blob/main/Port%20scanning%204.jpeg)
 
 
 ## Performing the Scan.
@@ -99,7 +100,6 @@ In order to modify rules in snort, we can modify them by updating the file by th
 4. How can the commands be modified to scan network instead of devices?
 
 ## Nmap Flags CheatSheet
-![[Port scanning 1.jpeg]]
-![[Port scanning 2.jpeg]]
-
-![[Port scaning 3.jpeg]]
+![Port scanning 1.jpeg](https://github.com/pollog09/C1b3rb1tsJune2022/blob/main/Port%20scanning%201.jpeg)
+![Port scanning 2.jpeg](https://github.com/pollog09/C1b3rb1tsJune2022/blob/main/Port%20scanning%202.jpeg)
+![Port scaning 3.jpeg](https://github.com/pollog09/C1b3rb1tsJune2022/blob/main/Port%20scaning%203.jpeg)
